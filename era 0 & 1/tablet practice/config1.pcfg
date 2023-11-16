@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PenTableInit>
+	<PID_0075>
+		<deviceinfo>
+			<device-name>430|540|G430S</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-width>13.97</device-width>
+			<device-height>10.16</device-height>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>FALSE</device-buttons>
+			<device-buttonsnum>0</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="1">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="3">
+				</pen-SecondButton>
+				<pen-P0>0.0</pen-P0>
+				<pen-P1X>0.5</pen-P1X>
+				<pen-P1Y>0.5</pen-P1Y>
+				<pen-P2>1.0</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>0</Screen-Width>
+				<Screen-Height>0</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>0</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>0</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>104</PngID>
+					<Left>0.675</Left>
+					<Top>0.491</Top>
+					<Right>0.862</Right>
+					<Bottom>0.653</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>105</PngID>
+					<Left>0.619</Left>
+					<Top>0.492</Top>
+					<Right>0.806</Right>
+					<Bottom>0.653</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+	</PID_0075>
+	<PID_0094>
+		<deviceinfo>
+			<device-name>G640</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>FALSE</device-buttons>
+			<device-buttonsnum>0</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="1">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="3">
+				</pen-SecondButton>
+				<pen-P0>0.0</pen-P0>
+				<pen-P1X>0.5</pen-P1X>
+				<pen-P1Y>0.5</pen-P1Y>
+				<pen-P2>1.0</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>0</Screen-Width>
+				<Screen-Height>0</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>0</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>0</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>149</PngID>
+					<Left>0.642</Left>
+					<Top>0.525</Top>
+					<Right>0.837</Right>
+					<Bottom>0.664</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>150</PngID>
+					<Left>0.642</Left>
+					<Top>0.480</Top>
+					<Right>0.837</Right>
+					<Bottom>0.620</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+	</PID_0094>
+	<PID_0061>
+		<deviceinfo>
+			<device-name>540 Pro</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-width>13.97</device-width>
+			<device-height>10.16</device-height>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>FALSE</device-buttons>
+			<device-buttonsnum>0</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="1">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="3">
+				</pen-SecondButton>
+				<pen-P0>0.0</pen-P0>
+				<pen-P1X>0.5</pen-P1X>
+				<pen-P1Y>0.5</pen-P1Y>
+				<pen-P2>1.0</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>0</Screen-Width>
+				<Screen-Height>0</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>0</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>0</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>137</PngID>
+					<Left>0.678</Left>
+					<Top>0.535</Top>
+					<Right>0.811</Right>
+					<Bottom>0.642</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>138</PngID>
+					<Left>0.667</Left>
+					<Top>0.505</Top>
+					<Right>0.799</Right>
+					<Bottom>0.612</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+	</PID_0061>
+	<PID_0906>
+		<deviceinfo>
+			<device-name>G640S</device-name>
+			<device-vid>VID_28BD</device-vid>
+			<device-width>6</device-width>
+			<device-height>4</device-height>
+			<device-type>0</device-type>
+			<device-turntable>FALSE</device-turntable>
+			<device-buttons>TRUE</device-buttons>
+			<device-buttonsnum>6</device-buttonsnum>
+		</deviceinfo>
+		<ui-common>
+			<ui-Pen>
+				<pen-TipButton SelectID="1">
+				</pen-TipButton>
+				<pen-FirstButton SelectID="1">
+				</pen-FirstButton>
+				<pen-SecondButton SelectID="3">
+				</pen-SecondButton>
+				<pen-P0>0.000000</pen-P0>
+				<pen-P1X>0.500000</pen-P1X>
+				<pen-P1Y>0.500000</pen-P1Y>
+				<pen-P2>1.007634</pen-P2>
+			</ui-Pen>
+			<ui-ScreenMapping SelectID="1">
+				<Screen-OffsetX>0</Screen-OffsetX>
+				<Screen-OffsetY>0</Screen-OffsetY>
+				<Screen-Width>1366</Screen-Width>
+				<Screen-Height>768</Screen-Height>
+			</ui-ScreenMapping>
+			<ui-AdvancedSetup>
+				<Advanced-Pannel>
+					<Advanced-Pannel-WorkArea-OffsetX>0</Advanced-Pannel-WorkArea-OffsetX>
+					<Advanced-Pannel-WorkArea-OffsetY>0</Advanced-Pannel-WorkArea-OffsetY>
+					<Advanced-Pannel-WorkArea-Width>649</Advanced-Pannel-WorkArea-Width>
+					<Advanced-Pannel-WorkArea-Height>405</Advanced-Pannel-WorkArea-Height>
+				</Advanced-Pannel>
+				<Advanced-Other>
+					<Other-LeftMode IsChecked="False">
+					</Other-LeftMode>
+					<Other-TablePC IsChecked="False">
+					</Other-TablePC>
+					<Other-RelativeCoords IsChecked="False">
+					</Other-RelativeCoords>
+					<Other-DisableInfo IsChecked="False">
+					</Other-DisableInfo>
+				</Advanced-Other>
+			</ui-AdvancedSetup>
+			<PictureFiles>
+				<Tablet_0>
+					<PngID>151</PngID>
+					<Left>0.660</Left>
+					<Top>0.498</Top>
+					<Right>0.869</Right>
+					<Bottom>0.647</Bottom>
+				</Tablet_0>
+				<Tablet_1>
+					<PngID>152</PngID>
+					<Left>0.610</Left>
+					<Top>0.498</Top>
+					<Right>0.817</Right>
+					<Bottom>0.646</Bottom>
+				</Tablet_1>
+			</PictureFiles>
+		</ui-common>
+		<ui-shortcuts>
+			<Default>
+				<Shortcuts-Turntable-Buttons IsChecked="False">
+					<kuaijie1 ShortcutsID="1" DefActionID="1" Show="1" SelectID="0"></kuaijie1>
+					<kuaijie2 ShortcutsID="2" DefActionID="2" Show="1" SelectID="0"></kuaijie2>
+					<kuaijie3 ShortcutsID="3" DefActionID="3" Show="1" SelectID="0"></kuaijie3>
+					<kuaijie4 ShortcutsID="4" DefActionID="4" Show="1" SelectID="0"></kuaijie4>
+					<kuaijie5 ShortcutsID="5" DefActionID="5" Show="1" SelectID="0"></kuaijie5>
+					<kuaijie6 ShortcutsID="6" DefActionID="6" Show="1" SelectID="0"></kuaijie6>
+				</Shortcuts-Turntable-Buttons>
+				<Shortcuts-Turntable-PngID>153</Shortcuts-Turntable-PngID>
+			</Default>
+			<Labs>
+				<Lab name="ALL" id="0">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="2">1|[Ctrl + Z]|90|44|2</K2>
+						<K3 SelectID="2">1|[Shift + Space]|32|57|1</K3>
+						<K4 SelectID="2">1|[Ctrl + R]|82|19|2</K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="1">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="2">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="3">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="4">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="5">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="6">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="7">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="8">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="9">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+				<Lab name="" id="10">
+					<path></path>
+					<Shortcuts>
+						<K1 SelectID="0"></K1>
+						<K2 SelectID="0"></K2>
+						<K3 SelectID="0"></K3>
+						<K4 SelectID="0"></K4>
+						<K5 SelectID="0"></K5>
+						<K6 SelectID="0"></K6>
+					</Shortcuts>
+				</Lab>
+			</Labs>
+		</ui-shortcuts>
+	</PID_0906>
+</PenTableInit>
